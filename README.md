@@ -17,6 +17,8 @@ With packages:
 - matplotlib
 - seaborn
 - PyTorch
+   
+Comapatible with Mac, Windows, and Linux     
 
 ### Documentation map:
 ```
