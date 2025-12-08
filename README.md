@@ -34,5 +34,6 @@ ProjectFolder/
 │       └── Plots from EDA notebook
 ├── data/
 │   └── train and test set csv files
+|   └── final_report.pdf
 └── README.md
 ``` 
