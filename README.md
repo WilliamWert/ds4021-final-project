@@ -19,21 +19,39 @@ With packages:
 
 ### Documentation map:
 ProjectFolder/
+
 ├── NOTEBOOKS/
+
 │   ├── EDA.ipynb
+
 │   ├── final_test_evaluation.ipynb
+
 │   ├── gradient_boosting.ipynb
+
 │   ├── neural_networks.ipynb
+
 │   ├── penalized_regression.ipynb
+
 │   └── svm.ipynb
+
 │
+
 ├── OUTPUT/
+
 │   ├── Plots from ML notebooks
+
 │   │
+
 │   └── EDA/
+
 │       └── Plots from EDA notebook
+
 │
+
 ├── data/
+
 │   └── train and test set csv files
+
 │
+
 └── README.md
