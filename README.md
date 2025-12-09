@@ -5,7 +5,7 @@ This repository contains the final project for DS 4021: Machine Learning, focuse
 
 By applying modern machine learning algorithms to the Student Performance dataset, this project aims to identify which socioeconomic and behavioral factors most strongly predict academic success. Understanding these patterns can help educators and policymakers recognize which students thrive despite disadvantage– resilient learners and which groups are most vulnerable to falling behind. These insights can inform targeted academic support programs, resource allocation, and interventions that not only narrow achievement gaps but also foster equitable learning environments where all students have the opportunity to succeed.
 
-**Research Question:** Which socioeconomic and behavioral factors best predict student performance in Math?
+**Research Question:** Which socioeconomic and behavioral factors are most important for predicting student performance in Math, and how consistently do different machine learning models identify these key predictors?
 
 ## Repository contents
 ### Software and platform:
